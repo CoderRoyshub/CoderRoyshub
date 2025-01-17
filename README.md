@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=CoderRoyshub&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ### 👨‍💻 About Me:
@@ -68,11 +68,3 @@ I actively work on various Full Stack Web Development projects to showcase my co
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" height="30" width="80" />
   </a>
 </p>
-
-### 📅 Milestones:  
-- *Projects*: Added at least four projects to showcase core competencies. Projects are tagged and pinned accordingly.  
-- *README Updates*: All projects have detailed README files with descriptions, installation instructions, and video walkthroughs.
-  
-### 🔖 Merit Points:
-- *Repositories Starring*: I have starred repositories of interest.
-- *Followers*: Engaging with the GitHub community and looking to expand my network.
