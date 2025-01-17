@@ -47,7 +47,7 @@ I'm a *MERN Stack Developer*, constantly exploring new technologies and building
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderRoyshub&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true" alt="streak-stats"/>
 </p>
 
