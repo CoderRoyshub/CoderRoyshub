@@ -1,14 +1,6 @@
 <h1 align="center">👋 Hi, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-<div align="center">
-  <!-- Profile Picture - Task 1.1 -->
-  <img src="https://placehold.it/200x200" width="200" alt="Professional Profile Picture" />
-  <br />
-
-  <br />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
@@ -43,12 +35,6 @@ I'm a *MERN Stack Developer*, constantly exploring new technologies and building
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-</p>
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderRoyshub&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true" alt="streak-stats"/>
 </p>
 
 ### 🏆 Projects:
